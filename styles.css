@@ -15,11 +15,7 @@ p { font-size: 0.16em
 .navi { font-size: 0.16em; 
 }
 
-.position {
-	position: relative;
-}
-.myfoto { size: 35px
-position: absolute;
+.myfoto { size: 35px;
 }
 .case_study_image {
 
