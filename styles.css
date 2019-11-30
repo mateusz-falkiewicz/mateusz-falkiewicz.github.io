@@ -1,5 +1,6 @@
 body {
 	font-family: 'Montserrat', serif;
+	font-size: 120px;
 }
 ul li {
 	display: inline;
@@ -13,13 +14,4 @@ h3 { font-size: 0.16em
 p { font-size: 0.16em
 }
 .navi { font-size: 0.16em; 
-}
-
-.myfoto { size: 35px;
-}
-.case_study_image {
-
-}
-.case_study_text {
-
 }
