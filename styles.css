@@ -1,8 +1,13 @@
+html { font-size: 120;
+
+}
+
 body {
 	font-family: 'Montserrat', serif;
 }
 ul li {
 	display: inline
+	position: relative;
 }
 h1 { font-size: 0.42em
 }
