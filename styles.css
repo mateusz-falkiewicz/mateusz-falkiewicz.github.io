@@ -12,10 +12,10 @@ h3 { font-size: 0.16em
 }
 p { font-size: 0.16em
 }
-li { font-size: 0.1em; 
+a { font-size: 0.1em; 
 }
-.myfoto { size: 20px
-
+.myfoto { size: 35px
+display: inline;
 }
 .case_study_image {
 
