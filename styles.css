@@ -1,7 +1,3 @@
-html { font-size: 120;
-
-}
-
 body {
 	font-family: 'Montserrat', serif;
 }
@@ -18,8 +14,12 @@ p { font-size: 0.16em
 }
 .navi { font-size: 0.16em; 
 }
+
+.position {
+	position: relative;
+}
 .myfoto { size: 35px
-display: inline;
+position: absolute;
 }
 .case_study_image {
 
