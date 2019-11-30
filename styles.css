@@ -2,24 +2,27 @@ body {
 	font-family: 'Montserrat', serif;
 }
 ul li {
-	display: inline;
+	display: inline
+	text-align: right;
 }
 h1 { font-size: 50px
-
 }
 h2 { font-size: 24px
-
 }
 h3 { font-size: 20px
-
 }
 p { font-size: 18px
+}
+footer p { font-size: 14px
+}
+.navi { font-size: 16px; 
+}
+.myfoto { size: 50px
 
 }
-footer p { font-size: 18px
+.case_study_image {
 
 }
-.navi
-.myfoto
-.case_study_image
-.case_study_text
+.case_study_text {
+
+}
