@@ -1,0 +1,22 @@
+body, html {
+	height: 100vh
+}
+
+body {
+	margin: 10px 15px 10px 15px
+	display: grid;
+	grid-template-columns: 50% 50%;
+	grid-template-rows: 5% 95% 45% 45% 15% 5%
+	grid-template-areas: 
+		"header header"
+		"about about"
+		"case case"
+		"case case"
+		"contact contact"
+		"footer footer";
+}
+
+header {
+	grid-area: header;
+	background-color: #007FFF
+}
