@@ -11,12 +11,37 @@ body {
 		"header header"
 		"about about"
 		"case case"
-		"case case"
+		"case2 case2"
 		"contact contact"
 		"footer footer";
 }
 
 header {
 	grid-area: header;
-	background-color: #007FFF
+	background-color: #007FFF;
+}
+
+div {
+	grid-area: about;
+	background-color: #91C8FF;
+}
+
+div {
+	grid-area: case;
+	background-color: #B3D8FD;
+}
+
+div {
+	grid-area: case2;
+	background-color: #5E86AF;
+}
+
+div {
+	grid-area: contact;
+	background-color: #7DA9D5;
+}
+
+footer {
+	grid-area: footer;
+	background-color: #588EC3;
 }
